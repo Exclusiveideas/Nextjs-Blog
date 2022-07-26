@@ -1,21 +1,18 @@
-# Next.js + Tailwind CSS Example
+# Blog Application (Full Stack)
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+![cms blog-01](https://user-images.githubusercontent.com/76836006/180907705-217ffe28-9c1d-4f83-b539-fb693bca929b.JPG)
 
-## Deploy your own
+![cms blog-02](https://user-images.githubusercontent.com/76836006/180907727-6c2c2011-7de0-4c06-aac2-29d5b62d30a3.JPG)
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
+## Introduction
+This is a Full-stack Blog application in which visitor's can view blog posts according to category as well as comment on the post.
+Next.js , React.js and material UI are the core libraries/frameworks used in developing the frontend of this blog application. GraphCMS is used as the primary content management system.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
+## Development Stage
+The shop is completely built.
 
-## How to use
+## Live Preview
+link to the deployed shop: https://nextjs-blog-eta-flax-94.vercel.app
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
-
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-# or
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-```
-
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+## Setup 
+First clone this repository into your local system and run ```npm i && npm start``` to start the application.
